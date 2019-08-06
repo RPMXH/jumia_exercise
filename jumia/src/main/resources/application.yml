@@ -1,0 +1,3 @@
+driverClassName: org.sqlite.JDBC
+url: jdbc:sqlite::resource:sample.db
+spring.jpa.database-platform: com.rpmxh.jumia.dialect.SQLiteDialect
